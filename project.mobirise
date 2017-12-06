@@ -36,7 +36,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/26045-128x73.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
